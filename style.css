@@ -22,6 +22,8 @@ article{
 .hotpink-header{
     color:magenta;
 }
-#notatki{
-    color:brown;
+
+.header-before-main{
+    background: chartreuse;
+    color: coral;
 }
