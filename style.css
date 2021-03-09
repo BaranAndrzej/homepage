@@ -1,0 +1,27 @@
+body{
+    background: #fefefe;
+}
+section{
+    background: lightblue;
+}
+
+h1 {
+    color: blueviolet;
+}
+p{
+    color: gold;
+}
+h2{
+    color: #1460AA;
+}
+article{
+    background: lightcyan;
+    border: lightpink;
+    border-width: 1cm;
+}
+.hotpink-header{
+    color:magenta;
+}
+#notatki{
+    color:brown;
+}
