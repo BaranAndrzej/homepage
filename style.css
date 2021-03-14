@@ -44,3 +44,22 @@ margin-right: 20px;
 background: tomato;
 color: black;
 }
+.artykul{
+  background: whitesmoke;
+  border-radius: 5px;
+  border: 2px #19e456 solid;
+  margin-bottom: 3px;
+  padding: 20px 30px;
+}
+.artykul__tytul{
+  color: aqua;
+}
+.artykul__tresc{
+  color: #6b8aa7;
+}
+.powitalne-zdjecie__fotka{
+  width:40%;
+  margin-inline: 30%;
+  border-radius: 25% 30% 40% 60%;
+  padding: 0;
+}
