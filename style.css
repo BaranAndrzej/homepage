@@ -1,29 +1,46 @@
-body{
-    background: #fefefe;
+body {
+  background: #fefefe;
 }
-section{
-    background: lightblue;
+section {
+  background: lightblue;
 }
 
 h1 {
-    color: blueviolet;
+  color: blueviolet;
 }
-p{
-    color: rgb(241, 218, 82);
+p {
+  color: rgb(241, 218, 82);
 }
-h2{
-    color: #1460AA;
+h2 {
+  color: #1460aa;
 }
-article{
-    background: lightcyan;
-    border: lightpink;
-    border-width: 1cm;
+article {
+  background: lightcyan;
+  border: lightpink;
+  border-width: 1cm;
 }
-.hotpink-header{
-    color:magenta;
+.hotpink-header {
+  color: magenta;
 }
 
-.header-before-main{
-    background: chartreuse;
-    color: coral;
+.header-before-main {
+  background: chartreuse;
+  color: coral;
+}
+
+.navigation{
+  background: #19e456;
+  padding: 16px;
+  border-radius: 20px;
+
+}
+.navigation__link{
+color: white;
+display: inline-block;
+margin-right: 20px;
+}
+
+.navigation__link--homepage{
+background: tomato;
+color: black;
 }
